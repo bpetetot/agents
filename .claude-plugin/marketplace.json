@@ -1,0 +1,11 @@
+{
+  "name": "ben-skills",
+  "owner": { "name": "Benjamin Petetot" },
+  "plugins": [
+    {
+      "name": "ben",
+      "source": "./",
+      "description": "Personal skills, agents and hooks for Claude Code"
+    }
+  ]
+}
