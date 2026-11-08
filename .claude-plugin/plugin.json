@@ -2,7 +2,7 @@
   "name": "ben",
   "description": "Personal skills, agents and hooks for Claude Code",
   "author": { "name": "Benjamin Petetot" },
-  "repository": "https://github.com/bpetetot/skills",
+  "repository": "https://github.com/bpetetot/agents",
   "license": "MIT",
   "types": "./types/index.d.ts"
 }

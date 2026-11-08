@@ -23,16 +23,16 @@ Skills follow the [Agent Skills](https://agentskills.io) format, so other agents
 ### Claude Code
 
 ```
-/plugin marketplace add bpetetot/skills
-/plugin install ben@ben-skills
+/plugin marketplace add bpetetot/agents
+/plugin install ben@ben-agents
 ```
 
-Enable auto-update for the `ben-skills` marketplace in `/plugin` to get every new commit.
+Enable auto-update for the `ben-agents` marketplace in `/plugin` to get every new commit.
 
 ### Other agents
 
 ```
-npx skills add bpetetot/skills
+npx skills add bpetetot/agents
 ```
 
 ## Development
