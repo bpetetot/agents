@@ -12,6 +12,12 @@ Skills follow the [Agent Skills](https://agentskills.io) format, so other agents
 | `ben:agents-md-migrate` | Run the audit plan: short AGENTS.md, scoped rules, skills, hooks, permissions, subagents. One commit per step. | bpetetot        |
 | `ben:agents-md-tune`    | Periodic upkeep: detect drift, prune or rewrite instructions, promote violated rules to hooks.                 | bpetetot        |
 
+## Mods
+
+| Mod   | Description                                                                                                                  |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Usage | Subscription rate limits (`5h 48% · 7j 12%`) at the right of the prompt footer. Reset time and color from 70%, red from 90%. |
+
 ## Install
 
 ### Claude Code
@@ -41,4 +47,5 @@ Validate before pushing:
 
 ```
 claude plugin validate .
+claude plugin test .
 ```
